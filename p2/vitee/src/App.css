@@ -1,0 +1,30 @@
+#page{
+  width: 1200px;
+  height: 1200px;
+  background-color: pink;
+  margin: 0 0 0 0;
+}
+
+#btn{
+  background-color: green;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+#btn2{
+  background-color: red;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  font-size: 20px;
+  margin-top: 20px;
+}
